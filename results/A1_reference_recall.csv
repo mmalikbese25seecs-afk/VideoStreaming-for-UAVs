@@ -1,0 +1,2 @@
+name,recall,precision,mean_kb,mean_param,n_gt,recall_tiny,recall_small,recall_medium
+reference (no compression),0.9363867684478372,0.9161825726141078,269.354272,0.0,1179,0.923728813559322,0.9688888888888889,0.8848920863309353
