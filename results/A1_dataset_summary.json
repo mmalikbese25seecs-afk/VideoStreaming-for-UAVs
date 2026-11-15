@@ -1,0 +1,13 @@
+{
+  "train_images": 1000,
+  "val_images": 250,
+  "train_persons": 5497,
+  "val_persons": 1179,
+  "val_pct_tiny_lt16": 50.042408821034776,
+  "val_pct_small_16_32": 38.16793893129771,
+  "val_pct_medium_gt32": 11.789652247667515,
+  "person_classes": [
+    "swimmer"
+  ],
+  "work_size": 1280
+}
